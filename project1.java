@@ -5,6 +5,6 @@ class project1
 	{
 		Scanner sc=new Scanner(System.in);
 		System.out.printf("Hello world");
-		int a=sc.nextInt();
+	
 	}
 }
